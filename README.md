@@ -7,7 +7,7 @@
 ## Usage
 
 ```
-const is-odd = require('ankit-is-odd')
+const isOdd = require('ankit-is-odd')
 console.log(isOdd(4))
 console.log(isOdd(3))
 ```
