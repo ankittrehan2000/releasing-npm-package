@@ -1,0 +1,22 @@
+{
+  "name": "ankit-is-odd",
+  "version": "1.0.0",
+  "description": "Quick demo code for releasing packages on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankittrehan2000/releasing-npm-package-medium.git"
+  },
+  "keywords": [
+    "is-odd"
+  ],
+  "author": "Ankit Trehan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankittrehan2000/releasing-npm-package-medium/issues"
+  },
+  "homepage": "https://github.com/ankittrehan2000/releasing-npm-package-medium#readme"
+}
